@@ -12,7 +12,7 @@ fun main(args: Array<String>)
   println(iter.next())
   
   println(iter.hasNext())
-  println(iternext())
+  println(iter.next())
   
   println(iter.hasNext())
   
